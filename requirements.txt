@@ -1,3 +1,4 @@
-Flask>=3.0.0
+django>=6.3.0
+python>=3.14.3
 Werkzeug>=3.0.0
 Jinja2>=3.1.0
